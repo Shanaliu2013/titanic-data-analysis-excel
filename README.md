@@ -22,6 +22,7 @@ This project analyzes the Titanic dataset to explore factors that influenced pas
 3. Age Distribution and Survival  
    - Younger passengers had relatively higher survival rates
   
+
 ## Visualizations
 
 ### Survival Rate by Gender
