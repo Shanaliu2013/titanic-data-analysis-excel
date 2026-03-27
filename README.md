@@ -20,7 +20,19 @@ This project analyzes the Titanic dataset to explore factors that influenced pas
    - Third-class passengers had the lowest  
 
 3. Age Distribution and Survival  
-   - Younger passengers had relatively higher survival rates  
+   - Younger passengers had relatively higher survival rates
+  
+## Visualizations
+
+### Survival Rate by Gender
+![Gender](gender_survival.png)
+
+### Survival Rate by Passenger Class
+![Pclass](pclass_survival.png)
+
+### Age Distribution by Survival
+![Age](age_distribution.png)
 
 ## Conclusion
 Gender, passenger class, and age all played important roles in survival outcomes.
+
