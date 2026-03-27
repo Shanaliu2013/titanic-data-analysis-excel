@@ -33,6 +33,7 @@ This project analyzes the Titanic dataset to explore factors that influenced pas
 ### Age Distribution by Survival
 ![Age](age_distribution.png)
 
+
 ## Conclusion
 Gender, passenger class, and age all played important roles in survival outcomes.
 
